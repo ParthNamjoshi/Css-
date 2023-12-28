@@ -1,0 +1,75 @@
+*{
+    margin: 0px;
+    
+
+}
+
+h1{
+    text-align: center;
+}
+.navbar {
+    position: sticky;
+    top: 0;
+}
+.navbar ul {
+    background-color: black;
+    
+    overflow: hidden;
+    
+    
+
+}
+.navbar a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    margin: 10px;
+
+
+}
+.navbar li {
+    float: left;
+    margin: 7px;
+    background-color: grey;
+    margin-right: 10px;
+}
+h1 {
+   background-color: chartreuse;
+   text-align: center;
+
+}
+h2,h3{
+    color: cyan;
+    background-color: black;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#one{
+    background-color: brown;
+    color: wheat;
+}
+#two{
+    color: whitesmoke;
+    background-color: cornflowerblue;
+}
+#three{
+    color: beige;
+    background-color: darkcyan;
+}
+#four{
+    color: white;
+    background-color: green;
+}
+#five{
+    color: white;
+    background-color: red;
+}
+#six{
+    color: yellow;
+    background-color: rgb(108, 114, 103);
+}
